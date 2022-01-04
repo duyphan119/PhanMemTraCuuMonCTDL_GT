@@ -1,0 +1,15 @@
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\bin\Debug\PhanMemTraCuu.exe.config
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\bin\Debug\PhanMemTraCuu.exe
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\bin\Debug\PhanMemTraCuu.pdb
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\bin\Debug\SautinSoft.Document.dll
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\bin\Debug\SautinSoft.Document.xml
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\obj\Debug\PhanMemTraCuu.csproj.AssemblyReference.cache
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\obj\Debug\PhanMemTraCuu.Form1.resources
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\obj\Debug\PhanMemTraCuu.Properties.Resources.resources
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\obj\Debug\PhanMemTraCuu.src.gui.usercontrols.ucMain.resources
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\obj\Debug\PhanMemTraCuu.csproj.GenerateResource.cache
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\obj\Debug\PhanMemTraCuu.csproj.CoreCompileInputs.cache
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\obj\Debug\PhanMemTraCuu.csproj.CopyComplete
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\obj\Debug\PhanMemTraCuu.exe
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\obj\Debug\PhanMemTraCuu.pdb
+D:\Documents\DoAnTT_UD\PhanMemTraCuu\PhanMemTraCuu\obj\Debug\PhanMemTraCuu.src.gui.usercontrols.ucLesson.resources
